@@ -1,0 +1,12 @@
+#python problem seti 1
+(1,100) aralığında fizzbuzz için:
+    fizzbuzz% 3 == 0 ve fizzbuzz% 5 == 0 ise:
+        baskı ("fizzbuzz")
+        devam et
+    elif fizzbuzz% 3 == 0:
+        baskı ("fizz")
+        devam et
+    elif fizzbuzz% 5 == 0:
+        baskı ("buzz")
+        devam et
+    baskı (fizzbuzz)
