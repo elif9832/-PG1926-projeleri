@@ -1,1 +1,1 @@
-# -PG1926-projeleri
+# GlobalAIHubPythonCours
